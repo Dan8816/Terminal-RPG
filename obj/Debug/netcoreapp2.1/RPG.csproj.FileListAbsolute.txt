@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\bin\Debug\netcoreapp2.1\RPG.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\RPG\obj\Debug\netcoreapp2.1\RPG.pdb
